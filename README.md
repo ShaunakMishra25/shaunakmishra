@@ -66,7 +66,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical" alt="Shaunak's GitHub stats" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ShaunakMishra25&theme=radical&border_radius=5)](https://git.io/streak-stats)
+
   <br/>
   <img src="https://streak-stats.demolab.com?user=ShaunakMishra25&theme=radical&border_radius=5" alt="GitHub streak" />
 </p>
