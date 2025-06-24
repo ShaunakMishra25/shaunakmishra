@@ -65,10 +65,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical" alt="Shaunak's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ShaunakMishra25&theme=radical&border_radius=5" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ShaunakMishra25&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 ---
 
@@ -88,11 +87,7 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
 
-<p align="center">
-  <img src="https://github.com/ShaunakMishra25/ShaunakMishra25/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
