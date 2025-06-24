@@ -65,8 +65,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ShaunakMishra25&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 
 ---
