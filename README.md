@@ -56,18 +56,16 @@
 
 ### 🏆 Achievements
 
-- 🔹 Completed 3+ GPT-powered web projects  
-- 🔹 Solved 100+ DSA problems (LeetCode, Codeforces)  
-- 🔹 Learned full-stack development while attending college  
-- 🔹 Building toward remote career & financial freedom by 2026  
+- 🔹 Completed 3+ GPT-powered web projects   
+- 🔹 Learned full-stack development   
+- 🔹 Building toward remote career & financial freedom 
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ShaunakMishra25&theme=radical&border_radius=5)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical" alt="Shaunak's GitHub stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=ShaunakMishra25&theme=radical&border_radius=5" alt="GitHub streak" />
 </p>
